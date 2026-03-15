@@ -29,6 +29,3 @@ Compared to a standard baseline grid setup, this system achieves:
 * **28% savings** in monthly electricity costs.
 * **87% utilization** of renewable energy (up from 62% in non-AI hybrid setups).
 * **40% reduction** in grid dependency during peak hours.
-
-## ⚙️ Setup & Installation
-*(Add instructions here on how to spin up the FastAPI backend, run the React frontend, and load the dataset/ML weights).*
